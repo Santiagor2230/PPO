@@ -38,7 +38,9 @@ Policy: AdamW
 Value: Adam
 
 # loss function
-Policy: Trust 
-smooth L1 loss function
+Policy: clipped surrogate objective functio
+Value: smooth L1 loss function
 
 # Video Result:
+https://github.com/Santiagor2230/PPO/assets/52907423/770bc0c1-cc0f-41d7-a7cb-6bf8dbfc6259
+
