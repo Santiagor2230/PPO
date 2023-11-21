@@ -38,7 +38,7 @@ Policy: AdamW
 Value: Adam
 
 # loss function
-Policy: clipped surrogate objective functio
+Policy: clipped surrogate objective function
 Value: smooth L1 loss function
 
 # Video Result:
