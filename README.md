@@ -35,10 +35,12 @@ Regular PPO
 
 # optimizer
 Policy: AdamW
-Value: Adam
+
+Value: AdamW
 
 # loss function
 Policy: clipped surrogate objective function
+
 Value: smooth L1 loss function
 
 # Video Result:
